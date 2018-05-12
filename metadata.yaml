@@ -1,0 +1,38 @@
+_repo: The-Spider-s-Web_45866
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Paleologue, Jean de
+    aliases:
+    - Pal
+    - Paleologue, Jean
+    - Paleologu, Jean de
+    birthdate: 1855
+    gutenberg_agent_id: '43506'
+    url: http://www.gutenberg.org/2009/agents/43506
+covers:
+- cover_type: archival
+  image_path: 45866-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Kauffman, Reginald Wright
+    birthdate: 1877
+    deathdate: 1959
+    gutenberg_agent_id: '39468'
+    url: http://www.gutenberg.org/2009/agents/39468
+description: ''
+gutenberg_issued: '2014-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45866'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'United States -- Social conditions -- 1865-1918 -- Fiction'
+- !lcsh 'Lawyers -- Fiction'
+- !lcc 'PS'
+title: The Spider's Web
+url: http://www.gutenberg.org/ebooks/45866
